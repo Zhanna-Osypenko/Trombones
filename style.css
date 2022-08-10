@@ -94,13 +94,11 @@
   
   .fa-solid {
     font-size: 48px;
-    color: darkorange;
+    color: rgb(248, 39, 32);
   
   }
   
   .section-features {
-    /* display: flex;
-    justify-content: center; */ 
     margin: 30px auto;
    }
   
